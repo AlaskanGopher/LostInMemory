@@ -1,2 +1,7 @@
 # LostInMemory
-Lost in Memory is a Open World RPG in which the main character has to resolve and discover a tragic event that occured to the town of ___.
+##### Lost in Memory is a Open World RPG designed by
+- AlaskanGopher (Riley Maranville)
+
+### The projects wiki contains ideas and designs of specific features in the game
+
+
