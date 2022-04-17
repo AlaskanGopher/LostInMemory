@@ -1,0 +1,8 @@
+# Apple garbage
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Syncthing
+.stfolder
