@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/GrassCenter.png-4e83dbf08687f6e872c5174ede1e30b9.stex"
+path="res://.import/GrassCenter.png-24842cca426db66bf9b701b7c9d46165.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Tiles/Testing Tiles/GrassCenter.png"
-dest_files=[ "res://.import/GrassCenter.png-4e83dbf08687f6e872c5174ede1e30b9.stex" ]
+source_file="res://Resources/TileMaps/Tiles/Testing Tiles/GrassCenter.png"
+dest_files=[ "res://.import/GrassCenter.png-24842cca426db66bf9b701b7c9d46165.stex" ]
 
 [params]
 

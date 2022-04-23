@@ -8,10 +8,24 @@
 
 config_version=4
 
+_global_script_classes=[ {
+"base": "Container",
+"class": "TiledTileMap",
+"language": "GDScript",
+"path": "res://addons/Tiled_Renderer/TiledTileMap.gd"
+} ]
+_global_script_class_icons={
+"TiledTileMap": "res://addons/Tiled_Renderer/Tiled_Icon.png"
+}
+
 [application]
 
 config/name="Lost In Memory"
 config/icon="res://icon.png"
+
+[editor_plugins]
+
+enabled=PoolStringArray( "res://addons/Tiled_Renderer/plugin.cfg" )
 
 [physics]
 

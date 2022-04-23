@@ -1,0 +1,13 @@
+[remap]
+
+importer="tiled.tilemap"
+type="TileMap"
+path="res://.import/TestMap.tmx-75796be7c5f1c51d01d152c09ab811e4.tilemap"
+
+[deps]
+
+source_file="res://Resources/TileMaps/Tiles/Testing Tiles/TestMap.tmx"
+dest_files=[ "res://.import/TestMap.tmx-75796be7c5f1c51d01d152c09ab811e4.tilemap" ]
+
+[params]
+

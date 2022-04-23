@@ -1,0 +1,13 @@
+[remap]
+
+importer="image"
+type="Image"
+path="res://.import/Tiled_Icon.png-17c277af8d52b211dbc3f0969b8dd88e.image"
+
+[deps]
+
+source_file="res://addons/Tiled_Renderer/Tiled_Icon.png"
+dest_files=[ "res://.import/Tiled_Icon.png-17c277af8d52b211dbc3f0969b8dd88e.image" ]
+
+[params]
+
